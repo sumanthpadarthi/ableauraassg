@@ -1,0 +1,163 @@
+.headerContainer{
+    display: flex;
+    flex-direction: column;
+    
+    margin-top: 20px;
+}
+
+.headerHeading{
+position: absolute;
+width: 450px;
+height: 35px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 95px;
+/* identical to box height */
+color: #000000;
+text-align: center;
+align-self: center;
+}
+.coachimage{
+    position: absolute;
+     width: 300px;
+    height: 266px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 50.52%, rgba(0, 0, 0, 0.95) 100%);
+    background-image: url("./image 20.png");
+}
+
+
+.imagecontainer{
+    display: flex;
+    flex-direction: column;
+   
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.headingcoach{
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 20px;
+color: #FFFFFF;
+width: 193px;
+height: 90px;
+}
+
+.headcontainer{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+    justify-content: flex-end;
+    align-items: flex-start;
+    min-height: 50vh;
+}
+
+.readytochange{
+
+width: 417px;
+height: 265px;
+
+background: #F3F3F5;
+box-shadow: -5px -2px 7px -1px #FFFFFF, 3px 3px 4px -2px rgba(0, 0, 0, 0.19);
+border-radius: 8px;
+align-self: center;
+}
+
+.readyHeadind{
+height: 28px;
+text-align: center;
+margin-top: 40px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 26px;
+color: #000000;
+}
+
+.readydescription{
+height: 57px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+
+color: #000000;
+}
+.bothplaystore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.playstorecontainer{
+height: 48.58px;
+width: 150.75px;
+display: flex;
+flex-direction: row;
+
+
+
+
+background: #0F0F0F;
+border: 1px solid #BABABA;
+box-shadow: -10px -9px 10px -6px #FFFFFF, 6px 10px 12px -5px rgba(0, 0, 0, 0.19);
+border-radius: 6px;
+margin-left: 20px;
+margin-right: 30px;
+}
+
+.googleplaystore{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.playstore{
+width: 31.07px;
+height: 30px;
+align-self: center;
+margin-left: 10px;
+}
+.avaliable{
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 400;
+font-size: 9px;
+line-height: 5px;
+/* identical to box height */
+align-self: center;
+text-align: center;
+color: #F3F3F5;
+
+}
+.google{
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 5px;
+/* identical to box height */
+align-self: center;
+margin-left: 10px;
+color: #F3F3F5;
+}
+
+.coachimage2{
+
+  position: absolute;
+     width: 300px;
+    height: 266px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 50.52%, rgba(0, 0, 0, 0.95) 100%);
+    background-image: url("./travelvan.png");
+    align-self: flex-end;
+    margin-top: 100px;
+    
+}
+

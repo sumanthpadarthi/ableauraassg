@@ -1,0 +1,54 @@
+.bgContainer{
+    background-color:#1E1E1E;
+    width: auto;
+    height: 2100px;
+}
+
+.bgcontainer2{
+    position: absolute;
+    width: 1089px;
+    height: 253px;
+    background: #FFFFFF;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-right: 250px;
+}
+
+.mainHeading{
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 800;
+font-size: 65px;
+line-height: 105px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.25em;
+color: #000000;
+}
+
+.description{
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+
+/* identical to box height */
+letter-spacing: 0.105em;
+color: #000000;
+text-align: center;
+margin-top: 0px;
+line-height: 2px;
+}
+
+.bgcontainer3{
+box-sizing: border-box;
+position: absolute;
+width: 1089px;
+height: 1800px;
+margin-top: 300px;
+margin-left: 100px;
+
+background: #F3F3F5;
+border: 1px solid #BABABA;
+box-shadow: 1px -9px 10px -6px #FFFFFF, 6px 10px 12px -5px rgba(0, 0, 0, 0.19);
+}

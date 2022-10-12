@@ -1,0 +1,61 @@
+.profHeading{
+margin-right: 20px;
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 51px;
+letter-spacing: 0.125em;
+
+}
+.profContainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    align-self: center;
+    justify-content: center;
+    margin-right: 15px;
+
+}
+
+.line{
+width: 56px;
+height: 7px;
+margin-top: 15px;
+background: #2B2B2B;
+}
+
+.badgeContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.badge1{
+margin-right: 30px;
+box-sizing: border-box;
+border-radius: 56px;
+align-self: center;
+background: #F3F3F5;
+border: 0.5px solid #BABABA;
+box-shadow: -10px -9px 10px -6px #FFFFFF, 6px 10px 12px -5px rgba(0, 0, 0, 0.19)
+}
+.badge2{
+    margin-right: 30px;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 100px;
+    align-self: center;
+    background: #F3F3F5;
+    border: 0.5px solid #BABABA;
+    box-shadow: -10px -9px 10px -6px #FFFFFF, 6px 10px 12px -5px rgba(0, 0, 0, 0.19)
+    }
+
+.offercontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    }

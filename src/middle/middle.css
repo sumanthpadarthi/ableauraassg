@@ -1,0 +1,74 @@
+
+
+.joinheading{
+   font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 40px;
+    text-align: center;
+    color: #000000
+}
+
+.joindescription{
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 23px;
+text-align: center;
+
+color: #000000;
+}
+
+.joinimagecontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.funcontainer{
+background: #F3F3F5;
+box-shadow: -5px -2px 7px -1px #FFFFFF, 3px 3px 4px -2px rgba(0, 0, 0, 0.19);
+border-radius: 10px
+}
+
+.havefunimage{
+    margin-right: 20px;
+    align-self: center;
+    margin-top: 0px;
+    margin-left: 12px;
+}
+.serviceheading{
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+
+/* identical to box height */
+text-align: center;
+
+
+color: #000000;
+}
+
+.arrowcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.leftArrow{
+background: #F3F3F5;
+border: 2px solid #BABABA;
+box-shadow: -5px -2px 7px -1px #FFFFFF, 3px 3px 4px -2px rgba(0, 0, 0, 0.19);
+margin-right: 10px;
+}
+
+.circle{
+    margin-right: 5px;
+}
+
