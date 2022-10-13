@@ -2,6 +2,7 @@ import React from 'react'
 import Header from './Header/header'
 import MiddlePart from './middle/middle'
 import Footer from './Footer/footer'
+import Details from './details'
 
 
 import  './App.css'
@@ -19,6 +20,7 @@ const App = () => {
             <Header/>
             <MiddlePart/>
             <Footer/>
+            <Details/>
             
         </div>
     </div>

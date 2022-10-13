@@ -1,13 +1,13 @@
 .bgContainer{
     background-color:#1E1E1E;
     width: auto;
-    height: 2100px;
+    height: 3000px;
 }
 
 .bgcontainer2{
     position: absolute;
     width: 1089px;
-    height: 253px;
+    height: 303px;
     background: #FFFFFF;
     margin-left: 100px;
     margin-top: 50px;
@@ -44,7 +44,7 @@ line-height: 2px;
 box-sizing: border-box;
 position: absolute;
 width: 1089px;
-height: 1800px;
+height: 3000px;
 margin-top: 300px;
 margin-left: 100px;
 
